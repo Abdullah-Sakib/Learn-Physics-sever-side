@@ -21,42 +21,42 @@
   },
   {
     "id": "03" ,
-    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
-    "name": "Understanding Einstein: The Special Theory of Relativity",
-    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/de/5321205eaa11e6a173e1a4226d1b5e/Einstein-MOOC-logo-image-800x800.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-    "offeredBy": "Stanford University",
+    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/a9/e4018cf6f3036dcc6762b8058a92f1/square.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
+    "name": "AstroTech: The Science and Technology behind Astronomical Discovery",
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1a/c9e3578f688a7c8de355f7f05bcd82/Four_antennas_ALMA.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+    "offeredBy": "The University of Edinburgh",
     "level": "Beginner",
     "length": "1-3 Months",
-    "rattings": "4.9"
+    "rattings": "4.7"
   },
   {
     "id": "04" ,
-    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
-    "name": "Understanding Einstein: The Special Theory of Relativity",
-    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/de/5321205eaa11e6a173e1a4226d1b5e/Einstein-MOOC-logo-image-800x800.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-    "offeredBy": "Stanford University",
+    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/35/23d929219e4489c2d11215009dc699/coursera_180x180.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
+    "name": "Astro 101: Black Holes",
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/22/e065b0847d11e8b9e57f3230dbfc51/Astro-Poster_Square-03-_1_.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+    "offeredBy": "University of Alberta",
     "level": "Beginner",
     "length": "1-3 Months",
-    "rattings": "4.9"
+    "rattings": "4.8"
   },
   {
     "id": "05" ,
-    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
-    "name": "Understanding Einstein: The Special Theory of Relativity",
-    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/de/5321205eaa11e6a173e1a4226d1b5e/Einstein-MOOC-logo-image-800x800.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-    "offeredBy": "Stanford University",
+    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
+    "name": "Introduction to Thermodynamics: Transferring Energy from Here to There",
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e1/184b000f7711e7b526f5f5a22fa98a/bigstockphoto_Gas_Energy_Flames_209173_EDIT.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+    "offeredBy": " University of Michigan",
     "level": "Beginner",
     "length": "1-3 Months",
-    "rattings": "4.9"
+    "rattings": "4.8"
   },
   {
     "id": "06" ,
-    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
-    "name": "Understanding Einstein: The Special Theory of Relativity",
-    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/de/5321205eaa11e6a173e1a4226d1b5e/Einstein-MOOC-logo-image-800x800.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-    "offeredBy": "Stanford University",
+    "providerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/76/97dd60c5eb11e7a9ceb5c7c852c095/UNSW-Square.png?auto=format%2Ccompress&dpr=1&w=25&h=25&q=40",
+    "name": "Mechanics: Motion, Forces, Energy and Gravity, from Particles to Planets",
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/55/35f952437dbd605ae15481198aacc5/Unknown.jpeg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "offeredBy": "UNSW Sydney (The University of New South Wales)",
     "level": "Beginner",
     "length": "1-3 Months",
-    "rattings": "4.9"
+    "rattings": "4.7"
   }
 ]
