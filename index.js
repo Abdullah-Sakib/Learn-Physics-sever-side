@@ -5,6 +5,7 @@ const courses = require('./data/courses.json')
 const cors = require('cors');
 const courseDetails = require('./data/courseDetails.json')
 
+// don't forget to add cors
 app.use(cors());
 
 app.get('/', (req, res)=>{
